@@ -3,7 +3,7 @@ import { lazy, Suspense } from "react";
 
 const Home = lazy(() => import("./Pages/Home"));
 const Header = lazy(() => import("./components/Header/index"));
-const Footer = lazy(() => import("./components/footer/index"));
+const Footer = lazy(() => import("./components/Footer/index"));
 const ScrollToTop = lazy(() => import("./components/ScrollToTop/index"));
 
 function App() {
