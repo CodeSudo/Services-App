@@ -86,7 +86,7 @@ const Testimonials = () => {
           <Card
             text="CodeSudo has been essential part of our business. I would definetly
         recommend CodeSudo. It has been amazing to have them."
-            name="Jenny (CodeCall)"
+            name="Jenny"
             image="avatar-1"
           />
 
